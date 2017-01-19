@@ -16,6 +16,11 @@ ban:
     - mobile
     - phone
     - portal
+    - facebook
+    - twitter
+    - Instagram
+    - LinckedIn
+    - GitHub
 # 紹介
     - tour
     - tutorial
@@ -23,6 +28,7 @@ ban:
     - navi
     - manual
     - doc
+    - digest
     - company
     - store
     - shop
@@ -48,7 +54,11 @@ ban:
     - inquiry
     - legal
     - policy
+    - ToS
+    - Term-of-Service
+    - ToS4Paid
 # リソース
+    - env
     - icon
     - image
     - img
@@ -153,6 +163,8 @@ ban:
     - watch
     - cart
     - activity
+    - activate
+    - username
 # 認証
     - password
     - auth
@@ -163,6 +175,7 @@ ban:
     - signup
     - signin
     - signout
+    - forget
     - forgot
     - admin
     - administrator
